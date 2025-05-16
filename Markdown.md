@@ -88,7 +88,11 @@ Les images fonctionne de la même façons que les liens cependant, Il faut qu'il
 En markdown, Lors d'une explication d'une fonctionnalité ou afin d'afficher une citation il a 2 façons de les expliquées. Une citation simple ou une citation imbriquée.
 
 ``` > Citation Simple```
+
 ``` > > Citation imbriqué```
+
+> Ceci est une Citation
+> > Ceci est une Citation Imbriqué
 ---
 
 # Afficher du Code
