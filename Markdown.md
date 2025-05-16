@@ -6,7 +6,7 @@ Le markdown est un language de balisage permettant d'écrire et de lire différe
 ---
 ## Pourquoi utilisé le Markdown ?
 
-Les raisons pourtant le markdown a être utilisé comme language d'écriture pour les README, Documents Explicatifs ect sont les suivants :
+Les raisons portant le markdown a être utilisé comme language d'écriture pour les README, Documents Explicatifs ect sont les suivants :
 
 | Points fort | Explication |
 | :-: | :-: |
