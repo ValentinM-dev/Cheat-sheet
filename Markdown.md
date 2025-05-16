@@ -1,27 +1,21 @@
 # Markdown
 ---
-
 Le markdown est un language de balisage permettant d'écrire et de lire différent documents. Il est souvent utilisé afin d'écrire et d'expliquer les éléments comportant un projet et ces différentes fonctionnalité. En général il est utilisé afin de rédiger le README des différents projets. De nombreux éditeurs de texte offrent un aperçu en temps réel du rendu final, rendant son adoption plus facile.
 
----
 ## Pourquoi utilisé le Markdown ?
-
+---
 Les raisons portant le markdown a être utilisé comme language d'écriture pour les README, Documents Explicatifs ect sont les suivants :
-
 | Points fort | Explication |
 | :-: | :-: |
 | Simplicité | Le markdown est un language facile à apprendre et à utiliser developpeur ou non. |
 | Lisibilité | Le format utilisé par le Markdown est clair et lisible même dans sa forme brute |
 | Portabilité | Markdown ce compose seulement de fichiers texte (.md ou .markdown) il est donc ouvrable et modifiable dans n'importe quel éditeur de texte. |
 | Flexibilité | Il est supporté par de nombreuse platforme web (Webs, Forums, Gestionnaires de versions comme GitHub, éditeurs de texte et outils de documentation.) |
-
 **Il peut être utiliser de différente manière :**
 
 # Les Titres
 ---
-
 En markdown, les titres peuvent être afficher en différent niveaux grace à la balise "#" :
-
 | Niveau | Prérequis |
 | :---: | :---: |
 | 1 | # + Message|
@@ -30,9 +24,7 @@ En markdown, les titres peuvent être afficher en différent niveaux grace à la
 | 4 | #### + Message |
 | 5 | ##### + Message |
 | 6 | ###### + Message |
-
 Voici ce que cela donne en pratique :
-
 # Titre de niveau 1
 ## Titre de niveau 2
 ### Titre de niveau 3
