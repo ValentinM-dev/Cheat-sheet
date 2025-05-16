@@ -77,6 +77,7 @@ Afin de pouvoir afficher un lien via markdown on l'utilise de cette façon.
 ---
 
 # Les Images
+
 Les images fonctionne de la même façons que les liens cependant, Il faut qu'il sois précéder d'un "!"
 
 ```![Lien de l'image](URL de l'image "Titre optionnel de l'image)```
@@ -85,6 +86,7 @@ Les images fonctionne de la même façons que les liens cependant, Il faut qu'il
 ---
 
 # Les Citations 
+
 En markdown, Lors d'une explication d'une fonctionnalité ou afin d'afficher une citation il a 2 façons de les expliquées. Une citation simple ou une citation imbriquée.
 
 ``` > Citation Simple```
