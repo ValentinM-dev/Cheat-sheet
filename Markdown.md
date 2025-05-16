@@ -100,6 +100,7 @@ En markdown, Lors d'une explication d'une fonctionnalité ou afin d'afficher une
 
 En markdown, On peut tout aussi afficher du code directement avec le language souhaiter. 
 Il suffis de préceder et terminer les lignes de codes avec "```"
+
 ⚠️ Il ne faut pas oublié d'indiquer le language utilisé lors de l'explication du code 
 
 ```javascript
