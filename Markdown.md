@@ -1,7 +1,19 @@
 # Markdown
 ---
 
-Markdown est un language de balisage léger conçu pour être facile à lire et écrire. Il permet de formater du texte brut en utilisant une synthaxe simple et intuitive. Convertis par la suite en HTML (ou autre format). 
+Le markdown est un language de balisage permettant d'écrire et de lire différent documents. Il est souvent utilisé afin d'écrire et d'expliquer les éléments comportant un projet et ces différentes fonctionnalité. En général il est utilisé afin de rédiger le README des différents projets. De nombreux éditeurs de texte offrent un aperçu en temps réel du rendu final, rendant son adoption plus facile.
+
+---
+## Pourquoi utilisé le Markdown ?
+
+Les raisons pourtant le markdown a être utilisé comme language d'écriture pour les README, Documents Explicatifs ect sont les suivants :
+
+| Points fort | Explication |
+| :-: | :-: |
+| Simplicité | Le markdown est un language facile à apprendre et à utiliser developpeur ou non. |
+| Lisibilité | Le format utilisé par le Markdown est clair et lisible même dans sa forme brute |
+| Portabilité | Markdown ce compose seulement de fichiers texte (.md ou .markdown) il est donc ouvrable et modifiable dans n'importe quel éditeur de texte. |
+| Flexibilité | Il est supporté par de nombreuse platforme web (Webs, Forums, Gestionnaires de versions comme GitHub, éditeurs de texte et outils de documentation.) |
 
 **Il peut être utiliser de différente manière :**
 
@@ -75,3 +87,34 @@ Les images fonctionne de la même façons que les liens cependant, Il faut qu'il
 
 ![Ceci est une image](https://kidzzz-n-quadzzz.com/wp-content/uploads/moto-electrique-enfant-HP4-race-12V--600x500.jpg)
 
+# Les Citations 
+---
+
+En markdown, Lors d'une explication d'une fonctionnalité ou afin d'afficher une citation il a 2 façons de les expliquées. Une citation simple ou une citation imbriquée.
+
+``` > Citation Simple```
+``` > > Citation imbriqué```
+
+# Afficher du Code
+---
+
+En markdown, On peut tout aussi afficher du code directement avec le language souhaiter. 
+Il suffis de préceder et terminer les lignes de codes avec "```"
+⚠️ Il ne faut pas oublié d'indiquer le language utilisé lors de l'explication du code 
+
+```javascript
+function helloWorld(){
+console.log("Bonjour, le monde !")
+}
+```
+
+# Les Séparateurs
+---
+
+Enfin, En markdown il est possible de séparer les différents sujets ou fonction en utilisant ```---```
+
+# Fonction numéro 1
+
+---
+
+# Fonction numéro 2
